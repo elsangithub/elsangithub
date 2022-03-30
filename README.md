@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elsan
-- 👀 I’m interested in Papua Indonesia
+- 👀 I’m stay in Papua Indonesia
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Only Whatsapp +15188514001

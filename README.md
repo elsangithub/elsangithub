@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1685" height="860" alt="image" src="https://github.com/user-attachments/assets/e323fc11-5011-4adc-9470-68f72b3410c7" /><img width="1685" height="860" alt="image" src="https://github.com/user-attachments/assets/a11dcd7a-973c-45bd-b0e6-998c0a837c21" /><div align="center">
 
 # 👋 Hi, I'm Elsan | Halo, Saya Elsan
 
@@ -14,7 +14,7 @@
 
 ### 🔧 Projects
 
-I work on Linux DKMS Wi-Fi drivers for Amlogic-based boxes (FiberHome HG680-FJ, HG680-P, ZTE B860H) running Armbian.
+I work on Linux DKMS Wi-Fi drivers for Amlogic-based boxes (FiberHome HG680-FJ, HG680-P, ZTE B860H, ZTE B860H V5) running Armbian.
 
 | Project | Description |
 |---|---|
@@ -34,7 +34,7 @@ Reach me on Telegram: [@Harry_osborn1](https://t.me/Harry_osborn1)
 
 ### 🔧 Proyek
 
-Saya mengerjakan driver Wi-Fi DKMS Linux untuk box berbasis Amlogic (FiberHome HG680-FJ, HG680-P, ZTE B860H) yang menjalankan Armbian.
+Saya mengerjakan driver Wi-Fi DKMS Linux untuk box berbasis Amlogic (FiberHome HG680-FJ, HG680-P, ZTE B860H, ZTE B860H V5) yang menjalankan Armbian.
 
 | Proyek | Deskripsi |
 |---|---|
